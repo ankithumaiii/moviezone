@@ -1,0 +1,8 @@
+{
+  "name": "Community Media Repository",
+  "description": "Public community repository featuring open cinema films, trailers, and Android extensions.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "/plugins.json"
+  ]
+}

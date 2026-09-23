@@ -1,0 +1,73 @@
+:root {
+  /* Color Palette - Refined Dark Media Theme */
+  --bg-canvas: #0c0d12;
+  --bg-surface: #13151c;
+  --bg-surface-elevated: #181b24;
+  --bg-surface-subtle: #1e222e;
+  --bg-surface-active: #272c3b;
+
+  /* Borders & Dividers */
+  --border-subtle: rgba(255, 255, 255, 0.07);
+  --border-medium: rgba(255, 255, 255, 0.12);
+  --border-hover: rgba(255, 255, 255, 0.2);
+  --border-focus: #3b82f6;
+
+  /* Typography Colors */
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --text-disabled: #475569;
+
+  /* Restrained Accent */
+  --accent-primary: #3b82f6;
+  --accent-hover: #2563eb;
+  --accent-active: #1d4ed8;
+  --accent-surface: rgba(59, 130, 246, 0.12);
+  --accent-border: rgba(59, 130, 246, 0.28);
+
+  /* Status Colors */
+  --status-ok: #10b981;
+  --status-ok-surface: rgba(16, 185, 129, 0.12);
+  --status-slow: #f59e0b;
+  --status-slow-surface: rgba(245, 158, 11, 0.12);
+  --status-beta: #8b5cf6;
+  --status-beta-surface: rgba(139, 92, 246, 0.12);
+  --status-danger: #ef4444;
+  --status-danger-surface: rgba(239, 68, 68, 0.12);
+  --status-danger-hover: #dc2626;
+
+  /* Radii - restrained, moderate */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-full: 9999px;
+
+  /* Spacing */
+  --space-2xs: 4px;
+  --space-xs: 8px;
+  --space-sm: 12px;
+  --space-md: 16px;
+  --space-lg: 20px;
+  --space-xl: 24px;
+  --space-2xl: 32px;
+  --space-3xl: 48px;
+
+  /* Typography Stack */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  /* Transitions */
+  --transition-fast: 140ms ease-out;
+  --transition-normal: 200ms ease-out;
+
+  /* Elevation Shadows - restrained */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px 0 rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 12px 28px 0 rgba(0, 0, 0, 0.65);
+
+  /* Navigation Layout Dimensions */
+  --rail-width: 68px;
+  --bottom-nav-height: 60px;
+  --header-height: 58px;
+}
