@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Open Cinema",
+    "internalName": "open_cinema",
+    "version": 1,
+    "authors": ["Blender Foundation", "Community"],
+    "description": "Authorized open-source Creative Commons cinema films with direct HD streaming and permitted downloads.",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "tvTypes": ["Movie", "Short"],
+    "language": "en",
+    "iconUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=100&auto=format&fit=crop&q=80",
+    "fileSize": 1572864,
+    "status": 1,
+    "isWebCompatible": true
+  },
+  {
+    "name": "YouTube",
+    "internalName": "youtube",
+    "version": 1,
+    "authors": ["Community"],
+    "description": "Official legal embedded playback for authorized open cinema and public promotional media.",
+    "url": "https://www.youtube.com",
+    "tvTypes": ["Movie", "Trailer", "Documentary"],
+    "language": "en",
+    "iconUrl": "https://img.youtube.com/vi/R6MlUcmOul8/hqdefault.jpg",
+    "fileSize": 2097152,
+    "status": 1,
+    "isWebCompatible": true
+  },
+  {
+    "name": "Android Native Player",
+    "internalName": "AndroidCinema",
+    "version": 2,
+    "authors": ["Android Dev"],
+    "description": "Native Android DEX bytecode player designed exclusively for Android TV and mobile OS devices.",
+    "url": "https://example.com/extensions/AndroidCinema.cs3",
+    "tvTypes": ["Movie"],
+    "language": "en",
+    "fileSize": 4194304,
+    "status": 1,
+    "isWebCompatible": false
+  }
+]
